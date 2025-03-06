@@ -15,17 +15,21 @@ How many ways - We can Apply CSS?
 
 CSS - Mechanism
 ---------------
-Rule 1 : Nearest Styles has highest priority
-          or styles are going to apply 
-          top to buttom
+Rule 1 :  
+Nearest Styles has highest priority
+or styles are going to apply top to buttom
 
 Rule 2: CSS selector Specificity?
+
+inline  > id selector >  class selector > Tag /Element 
+1000           100         10               1
+
 CSS Selector?
 -group of styles for Reusability
 type of Selector?
 
 1. Tag/Element Selector 
-2. Group of Tag/Element Selector
+2. Group of Tag/Element Selectors
 3. Class Selector                   .
 4. ID Selector                      # 
 5. Attribute Selector               []
